@@ -28,5 +28,5 @@ export const streamsFakeAPI = [
     title: "I created this stream",
     description: "This stream is another one",
     id: 6,
-  },
+  }
 ];
